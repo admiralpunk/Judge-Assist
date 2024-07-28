@@ -57,16 +57,4 @@ The application uses Nodemailer to send emails. Ensure the following environment
 - `EMAIL_USER`: Your email address
 - `EMAIL_PASS`: Your email password
 
-## Contributing
-
-Feel free to submit issues and pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-This project was part of my research internship at PICT Pune.
-
 ---
