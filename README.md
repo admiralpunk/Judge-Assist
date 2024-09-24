@@ -57,4 +57,6 @@ The application uses Nodemailer to send emails. Ensure the following environment
 - `EMAIL_USER`: Your email address
 - `EMAIL_PASS`: Your email password
 
----
+## Contributing
+
+Feel free to submit issues and pull requests.
