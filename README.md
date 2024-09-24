@@ -16,8 +16,7 @@ This is a Node.js server application for creating and managing events and a judg
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TechyMT/event-management-judging-platform.git
-   cd event-management-judging-platform
+   git clone https://github.com/admiralpunk/Judge-Assist/tree/master/Backend.get
    ```
 
 2. Install dependencies:
