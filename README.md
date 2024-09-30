@@ -6,7 +6,7 @@ This is a Node.js server application for creating and managing events and a judg
 
 #APP Demo : 
 
-https://github.com/user-attachments/assets/5f63e973-c09f-4aef-a1a1-641fcfb111a6
+[https://github.com/user-attachments/assets/5f63e973-c09f-4aef-a1a1-641fcfb111a6](https://github.com/user-attachments/assets/472641e0-2192-4338-8440-f323cb333c08)
 
 
 
