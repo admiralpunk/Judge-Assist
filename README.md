@@ -4,6 +4,12 @@
 
 This is a Node.js server application for creating and managing events and a judging platform. Users can create events, assign judges, and manage projects. Multiple judges can score projects, and the mean score of all judges will be calculated. Judges are assigned passwords for login, which are sent via email using Nodemailer.
 
+#APP Demo : 
+
+https://github.com/user-attachments/assets/5f63e973-c09f-4aef-a1a1-641fcfb111a6
+
+
+
 ## Features
 
 - **Event Creation**: Users can create events.
